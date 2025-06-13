@@ -13,7 +13,7 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": true,
-      "value": ""
+      "value": "INCONNU~XD~EBpHHDwZ#rps_PVQ1sTOUKi3soIFzaxcxpC8qVUFSspLDQc27x2I"
     },
     "MODE": {
       "description": "Enter public or private",
